@@ -16,7 +16,6 @@ export function getResultItems(result) {
       id: "short-url",
       label: "Short URL",
       value: result.short_url,
-      href: result.short_url,
     },
     {
       id: "created-date",
